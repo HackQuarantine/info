@@ -7,3 +7,35 @@ styles:
   - url: /assets/css/resources.css
 ---
 
+Content goes here
+
+## What is Hack Quarantine?
+
+## What is a hackathon / virtual hckathon?
+
+## Tracks 
+
+### Supporting Quarantined or At Risk People
+
+### Tech and Health
+
+### Remote Working
+
+### Improving Awareness and Behaviour
+
+## Taking Part
+
+### 1. Join our Discord Server
+
+### 2. Register for Platform
+
+### 3. Check out our schedule!
+
+## Rules and Etiquette
+
+
+## Sponsors
+
+## Workshops
+
+## Information for Speakers
